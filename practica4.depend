@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1608998309 source:c:\users\paco\desktop\dsw\practica4\bloque.cpp
+	"bloque.h"
+
+1574026161 c:\users\paco\desktop\dsw\practica4\bloque.h
+
+1607264622 source:c:\users\paco\desktop\dsw\practica4\identificador.cpp
+	"identificador.h"
+
+1607264774 c:\users\paco\desktop\dsw\practica4\identificador.h
+	"tvehiculo.h"
+
+1574048804 c:\users\paco\desktop\dsw\practica4\tvehiculo.h
+
+1574050858 source:c:\users\paco\desktop\dsw\practica4\main.cpp
+	<iostream>
+	"tvehiculo.h"
+	"identificador.h"
+	"planta.h"
+	"parking.h"
+
+1574048930 c:\users\paco\desktop\dsw\practica4\planta.h
+	"tvehiculo.h"
+	"bloque.h"
+
+1574049390 c:\users\paco\desktop\dsw\practica4\parking.h
+	"tvehiculo.h"
+	"planta.h"
+
+1608998689 source:c:\users\paco\desktop\dsw\practica4\planta.cpp
+	"planta.h"
+	"identificador.h"
+	<iostream>
+
+1608998925 source:c:\users\paco\desktop\dsw\practica4\parking.cpp
+	"parking.h"
+	<iostream>
+
